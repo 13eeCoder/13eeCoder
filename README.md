@@ -224,11 +224,9 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/13eeCoder/13eeCoder/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13eeCoder/13eeCoder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 ---
 
