@@ -158,8 +158,6 @@ A network intrusion detection project designed to analyze network traffic and id
 
 `Python` `Machine Learning` `Network Security` `Intrusion Detection`
 
-🔗 [View Repository](https://github.com/SufiyanAasim/smart-network-intrusion-detection-system)
-
 ---
 
 ### 🌐 Computer Communication & Networks
