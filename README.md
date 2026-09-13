@@ -45,7 +45,7 @@ I enjoy learning by actually getting my hands dirty — setting up labs, breakin
 
 ```text
                     ┌─────────────────────┐
-                    │   SOFTWARE ENGINEERING │
+                    │SOFTWARE ENGINEERING │
                     └──────────┬──────────┘
                                │
                                ▼
@@ -70,7 +70,7 @@ I enjoy learning by actually getting my hands dirty — setting up labs, breakin
                                │
                                ▼
                     ┌─────────────────────┐
-                    │     RED TEAM 🟥     │
+                    │     RED/BLUE TEAM   │
                     └─────────────────────┘
 ```
 
@@ -88,6 +88,7 @@ Penetration Testing
 Ethical Hacking
 Vulnerability Assessment
 Web Security
+SOC
 
 </td>
 
@@ -176,7 +177,7 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 🔴 Linux
 🔴 Python for Cybersecurity
 🔴 Ethical Hacking
-🔴 Red Team Fundamentals
+🔴 Red/Blue Team Fundamentals
 ```
 
 ---
