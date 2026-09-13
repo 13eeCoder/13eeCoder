@@ -213,8 +213,8 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="..." alt="GitHub Stats">
-  <img src="..." alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=13eeCoder&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13eeCoder&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
