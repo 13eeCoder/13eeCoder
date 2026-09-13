@@ -45,7 +45,7 @@ I enjoy learning by actually getting my hands dirty — setting up labs, breakin
 
 ```text
                     ┌─────────────────────┐
-                    │SOFTWARE ENGINEERING │
+                    │ SOFTWARE ENGINEERING│
                     └──────────┬──────────┘
                                │
                                ▼
@@ -60,7 +60,7 @@ I enjoy learning by actually getting my hands dirty — setting up labs, breakin
                                │
                                ▼
                     ┌─────────────────────┐
-                    │ ETHICAL HACKING     │
+                    │   ETHICAL HACKING   │
                     └──────────┬──────────┘
                                │
                                ▼
@@ -70,7 +70,7 @@ I enjoy learning by actually getting my hands dirty — setting up labs, breakin
                                │
                                ▼
                     ┌─────────────────────┐
-                    │     RED/BLUE TEAM   │
+                    │    RED/BLUE TEAM    │
                     └─────────────────────┘
 ```
 
@@ -145,6 +145,20 @@ I use isolated environments and virtual machines to practice security concepts s
 My Final Year Project exploring how a mobile application can scan rooftops, detect relevant areas using AI/computer vision, and assist with solar panel planning through AR.
 
 `Kotlin` `Android` `AI` `Computer Vision` `AR`
+
+---
+
+### 🛡️ Smart Network Intrusion Detection System
+
+> Network Security + Machine Learning
+
+A network intrusion detection project designed to analyze network traffic and identify potentially malicious or anomalous activity.
+
+**Role:** Contributor
+
+`Python` `Machine Learning` `Network Security` `Intrusion Detection`
+
+🔗 [View Repository](https://github.com/SufiyanAasim/smart-network-intrusion-detection-system)
 
 ---
 
@@ -226,13 +240,9 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 <img src="https://img.shields.io/badge/GitHub-13eeCoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn here -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammad-taha-siddiqui-mts/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
 
 </div>
 
@@ -246,6 +256,6 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:4C1D95&height=100&section=footer"/>
 
 </div>
