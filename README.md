@@ -213,7 +213,6 @@ A flight booking and reservation system developed with C#, ASP.NET and SQL Serve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./stats/github-stats.svg" alt="GitHub Stats">
   <img src="./stats/top-languages.svg" alt="Top Languages">
 </p>
 
