@@ -17,7 +17,7 @@
 **Software Engineering Undergraduate**
 **Bahria University Karachi Campus**
 
-> Learning cybersecurity one lab, packet, and vulnerability at a time.
+ Learning cybersecurity one lab, packet, and vulnerability at a time.
 
 </div>
 
